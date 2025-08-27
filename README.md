@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **DevOps, Kubernetes, and Terraform**  
 - 👯 I’m looking to collaborate on **Cloud Solutions & Cloud-Native Projects**  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/JaninduPremathilaka)  
-- 📝 I regularly write articles on [Medium](https://medium.com/@janindupremathilaka)  
+- 📝 I write articles on [Medium](https://medium.com/@janindupremathilaka)  
 - 💬 Ask me about **IT & Network Systems Engineering, Cloud & DevOps**  
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/janindupremathilaka)  
 
